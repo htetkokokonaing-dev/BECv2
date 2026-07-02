@@ -85,3 +85,9 @@ See `CITATION.cff`.
 ## Suggested public wording
 
 > Boundary Excess Calculus v2.0 is a Lean-supported, audit-backed framework for boundary-threshold reasoning with verified milestone kernels M1-M14.
+
+## DOI
+
+This release is archived on Zenodo:
+
+DOI: 10.5281/zenodo.21127911
