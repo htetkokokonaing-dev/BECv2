@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Boundary Excess Calculus v2.0: Lean-Supported Verified Milestone Kernels for Boundary-Threshold Reasoning"
+message: "If you use BEC v2.0, please cite this repository and the associated Zenodo DOI after release."
+type: software
+authors:
+  - family-names: "Naing"
+    given-names: "Htet Ko Ko"
+    orcid: "https://orcid.org/0009-0000-6140-0495"
+version: "2.0.0"
+date-released: "2026-07-02"
+repository-code: "https://github.com/<YOUR-USERNAME>/BECv2"
+license: "MIT"
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - mathematical logic
+  - certificate checking
+  - boundary threshold reasoning

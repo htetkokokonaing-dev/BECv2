@@ -1,0 +1,11 @@
+/.lake/
+/build/
+/.lake/
+/lake-packages/
+*.olean
+*.ilean
+*.c
+*.o
+*.so
+*.out
+.DS_Store

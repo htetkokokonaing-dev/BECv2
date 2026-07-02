@@ -1,0 +1,11 @@
+name = "BECv2"
+version = "2.0.0"
+defaultTargets = ["BECv2"]
+
+[[lean_lib]]
+name = "BECv2"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.31.0"

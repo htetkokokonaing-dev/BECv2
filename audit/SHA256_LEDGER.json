@@ -1,0 +1,342 @@
+[
+  {
+    "path": ".github/workflows/lean.yml",
+    "sha256": "06aa853cdd1a8702b9e675866499ddb72a7e5f46cc95cac659cc9853740a65fc",
+    "bytes": 573
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "f77ceea46a3ec0d9dde9a1ed94222635367d02831031f9ce48591211c3d4050d",
+    "bytes": 85
+  },
+  {
+    "path": "BECv2.lean",
+    "sha256": "f42a244efced3236e65127f5654208e0c661021eae930296f57995ce44ce686b",
+    "bytes": 243
+  },
+  {
+    "path": "BECv2/M13_BackendImporter.lean",
+    "sha256": "fddabf13e2ba237ce244a12222bc46616c6448ec5bd9a2e787e7ddd151ef0b2d",
+    "bytes": 7624
+  },
+  {
+    "path": "BECv2/M14_Categorical.lean",
+    "sha256": "3eccf0b53128030f8a0b0b508595a818352d068032de55c120e3a51c5d947fe4",
+    "bytes": 6758
+  },
+  {
+    "path": "BECv2/M1_MinKernel.lean",
+    "sha256": "1f11a068c758c16ff8779f917846f13fcb4706d1ed10f8c79647f9294d0c7b8c",
+    "bytes": 7744
+  },
+  {
+    "path": "BECv2/M2_Compiler.lean",
+    "sha256": "6fd58fa38d2549e3075331f833857426873c1a1b2a22c7253b1cb5ba13cbb5bc",
+    "bytes": 6018
+  },
+  {
+    "path": "BECv2/M3_Probability.lean",
+    "sha256": "e6139cd0e99e2f38a2f7fc2d0d4e4fcddc56dd998b9a0105745078e0d746dc9b",
+    "bytes": 3118
+  },
+  {
+    "path": "BECv2/M4_Topology.lean",
+    "sha256": "f6c8f2d38df233cf073e86878117a896de730d860a4ee464ad236ce20b8c5f3f",
+    "bytes": 4603
+  },
+  {
+    "path": "BECv2/M5_BTT.lean",
+    "sha256": "906bf50c02a5ff0edbed6b20c0df9c965302ea4e525649260230a9a18f5aa765",
+    "bytes": 5563
+  },
+  {
+    "path": "BECv2/M8_PolyhedralSolver.lean",
+    "sha256": "bbd367d11faaa625ad524d02db11da99093e3139145a0f4f290832eb9e8db830",
+    "bytes": 4343
+  },
+  {
+    "path": "BECv2/M9_Dynamic.lean",
+    "sha256": "f2fdb8774addee0651ea5c77cec5223ee81ce841c4489e38921cf4ba1e5cef31",
+    "bytes": 4793
+  },
+  {
+    "path": "CITATION.cff",
+    "sha256": "2dc77423171b854c7506530ed3b5e108071dc43fd39b1ee15cb5c8b47858b693",
+    "bytes": 628
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "bb770cd51366e7a849eab53f0bf1cda595341b5db9695ea90915dbc3886397ac",
+    "bytes": 1069
+  },
+  {
+    "path": "README.md",
+    "sha256": "28b862dec27ca09add4b3415bd1bcb7ebefad76a93e2ff45f23c98f5d272f194",
+    "bytes": 2207
+  },
+  {
+    "path": "audit/BECv2_M15_ClaimBoundary_PublicStatement.md",
+    "sha256": "64c7cf5eea983b206cf643042deafd4c9e9704cbf2ec26c8bc1c9ba4f1497118",
+    "bytes": 1078
+  },
+  {
+    "path": "audit/BECv2_M15_FinalReleaseNotes.md",
+    "sha256": "992740534c85b2f7d480090ec312cb4efcfac20a90ef6fae5378208281fc68c1",
+    "bytes": 1539
+  },
+  {
+    "path": "audit/BECv2_M15_PublicationREADME.md",
+    "sha256": "85b827b45373a9a929d0fd8d58da44d0a7d6860bebb1abdf3d5b45c5be6d02a9",
+    "bytes": 2746
+  },
+  {
+    "path": "audit/BECv2_M15_SHA256_LEDGER.json",
+    "sha256": "9dd1f4aeb60d94731fb83b0efba31fccfd28ee3b2b297e0a15f1685062ba1ae3",
+    "bytes": 18908
+  },
+  {
+    "path": "audit/BECv2_M15_SHA256_LEDGER.md",
+    "sha256": "90d8f8938631c4ef8bea858e0504d1f7ca0301579736d4187ce17de88a4ae10c",
+    "bytes": 13407
+  },
+  {
+    "path": "audit/BECv2_M16_FinalMonographRelease_SHA256.txt",
+    "sha256": "0b9311f940a9d3f51e8c315d89b9fc192f79d82b03b786d629bca2c62f2eb7b3",
+    "bytes": 102
+  },
+  {
+    "path": "audit/BECv2_M16_SHA256SUMS.txt",
+    "sha256": "53b7875f940c147aa4540fae4b6b5d88a5ea253620b754520308368632358aa2",
+    "bytes": 618
+  },
+  {
+    "path": "audit/M17_CODE_VALIDATION_REPORT.md",
+    "sha256": "88deddd1d517ad1993ee5e80273760f36f5d303695860b5a9d66a044553d2fc9",
+    "bytes": 3076
+  },
+  {
+    "path": "audit/SHA256_LEDGER.json",
+    "sha256": "913c17c0085090a2eeadac00a5282e7b32f363a55e59248c297a75c17ace805b",
+    "bytes": 10794
+  },
+  {
+    "path": "audit/SHA256_LEDGER.md",
+    "sha256": "0c5586baa26bf0ef4063b614c231eeaa38a58103c9958397e4239d3bacc1b9a2",
+    "bytes": 8335
+  },
+  {
+    "path": "audit/logs/BECv2_AllInOne_Check_PASS_LOG.txt",
+    "sha256": "ae9d387ad40a30ccbe08d9aa1453392ef053d6536683ada061d644fe1fc6796e",
+    "bytes": 300
+  },
+  {
+    "path": "audit/logs/BECv2_AllInOne_Check_SHA256SUMS.txt",
+    "sha256": "c968c87b159f9e16a3b15cb6f5de284ca1814fb8f7867c73c60b3fd37e3f4c80",
+    "bytes": 276
+  },
+  {
+    "path": "audit/logs/BECv2_AllInOne_Extended_Check_PASS_LOG.txt",
+    "sha256": "87e6f653d44516c84d65340ef3c43f35a5b0f6e746f2da573bb1e3c888ad0dc8",
+    "bytes": 319
+  },
+  {
+    "path": "audit/logs/BECv2_AllInOne_Extended_Check_SHA256SUMS.txt",
+    "sha256": "4c1d282e5254a55296f4ee01429e6629481e064339efc9d1a65840caa13693b7",
+    "bytes": 295
+  },
+  {
+    "path": "audit/logs/BECv2_BTTCheck_PASS_LOG.txt",
+    "sha256": "c6ca54539df2bed87557292f975d653c343747e168e81e55156036c57b9987de",
+    "bytes": 291
+  },
+  {
+    "path": "audit/logs/BECv2_BTTCheck_SHA256SUMS.txt",
+    "sha256": "c664a719d74211f90549e94fda2989b29f20d1470b8e700a889d3d22ab753411",
+    "bytes": 264
+  },
+  {
+    "path": "audit/logs/BECv2_BackendImporterCheck_PASS_LOG.txt",
+    "sha256": "0300e2780aa79dcbb4729af066ee174c81183e97f8f1c8d2ab38e5c273979c5e",
+    "bytes": 313
+  },
+  {
+    "path": "audit/logs/BECv2_BackendImporterCheck_SHA256SUMS.txt",
+    "sha256": "5e1c118fd70bdf7e9c9e5f5c78a2fcde26cbf2b94cc882949138e74077e0cf1a",
+    "bytes": 289
+  },
+  {
+    "path": "audit/logs/BECv2_CategoricalCheck_PASS_LOG.txt",
+    "sha256": "3b8e0867f07a00d27c3d4c4e57b03af931dbdc7904439af6129b4b4e90064450",
+    "bytes": 313
+  },
+  {
+    "path": "audit/logs/BECv2_CategoricalCheck_SHA256SUMS.txt",
+    "sha256": "41872a0eeea38e5c97f9e2a43c8e54d2e51de129a2aff4ab8521189c24164113",
+    "bytes": 281
+  },
+  {
+    "path": "audit/logs/BECv2_CompilerCheck_PASS_LOG.txt",
+    "sha256": "beefc5fff156bf87e4561c4a1c4110cd10e742016d3502b725731381ec5da70a",
+    "bytes": 302
+  },
+  {
+    "path": "audit/logs/BECv2_CompilerCheck_SHA256SUMS.txt",
+    "sha256": "b3755181074e7f003e19dd600504ba3bdd87bc6ff2aba59e417c13291e253a6b",
+    "bytes": 274
+  },
+  {
+    "path": "audit/logs/BECv2_DynamicCheck_PASS_LOG.txt",
+    "sha256": "18f61bb815dce53bf87f3194e0761f81e8916ed7f527d6de1dbbf8dec3d2bfa6",
+    "bytes": 305
+  },
+  {
+    "path": "audit/logs/BECv2_DynamicCheck_SHA256SUMS.txt",
+    "sha256": "cd12ebef440703d9d1aea2bf6d0963ae3bdbbeaefd55836482984804fea4c834",
+    "bytes": 272
+  },
+  {
+    "path": "audit/logs/BECv2_MinCheck_PASS_LOG.txt",
+    "sha256": "3f9162a7594b41236be9196c85e6a02d1276892680e7c84a6bc7793decc43317",
+    "bytes": 308
+  },
+  {
+    "path": "audit/logs/BECv2_MinCheck_SHA256SUMS.txt",
+    "sha256": "5c239313900253b18d94524ab2296378c7a7369a3b427db64194a17470a0f6d0",
+    "bytes": 261
+  },
+  {
+    "path": "audit/logs/BECv2_PolyhedralSolverCheck_PASS_LOG.txt",
+    "sha256": "306bfedb7313c483e59c16deaf46c721263f27a0e5a7eb883a722563ebda358e",
+    "bytes": 314
+  },
+  {
+    "path": "audit/logs/BECv2_PolyhedralSolverCheck_SHA256SUMS.txt",
+    "sha256": "68d0854cb96ae82ce162cb0b044258cbce916b88cf421ad6b24f786fcc5ac643",
+    "bytes": 290
+  },
+  {
+    "path": "audit/logs/BECv2_ProbabilityCheck_PASS_LOG.txt",
+    "sha256": "38ab8dc37364fdebfca84fb1318acdef375ae0b89dd802b32d0704d9b283013f",
+    "bytes": 308
+  },
+  {
+    "path": "audit/logs/BECv2_ProbabilityCheck_SHA256SUMS.txt",
+    "sha256": "14d1cd28558e91d4879bfce88b0c33430fdf6dbd10052f64aa24e56e9671f1cf",
+    "bytes": 280
+  },
+  {
+    "path": "audit/logs/BECv2_TopologyCheck_PASS_LOG.txt",
+    "sha256": "924ff6fb50943fdd4bce641af5924be047e3bc602c620d44c65750d17cda99b6",
+    "bytes": 298
+  },
+  {
+    "path": "audit/logs/BECv2_TopologyCheck_SHA256SUMS.txt",
+    "sha256": "19fedbafb73ca0f6b9e562c0bb9080033cc0d3435ff7f035e76131faabbf3afe",
+    "bytes": 274
+  },
+  {
+    "path": "audit/packages/BECv2_M12_AllInOneExtended_Lean431_Mathlib_PASS.zip",
+    "sha256": "486bae681a3f2392abb7a529a617f730a51c1f15caac90260365e38bbf88e8c3",
+    "bytes": 10208
+  },
+  {
+    "path": "audit/packages/BECv2_M13_BackendImporter_Lean431_Mathlib_PASS.zip",
+    "sha256": "69a21a366e3d20f9024e26bf3fb6c528811ecc424fc772c2cbda338e1bcf57fa",
+    "bytes": 3363
+  },
+  {
+    "path": "audit/packages/BECv2_M14_Categorical_Lean431_Mathlib_PASS.zip",
+    "sha256": "20dc9851cad6d1a9a0e5ad9b0bbf5ce2e8b4b2a76c4780016ae5d0fff7d79b61",
+    "bytes": 3500
+  },
+  {
+    "path": "audit/packages/BECv2_M2_Compiler_Lean431_Mathlib_PASS.zip",
+    "sha256": "d0c230856cbd0a059bd707368b6d1fc6dd2e51f1975fbfb466d71209eda07ea0",
+    "bytes": 2970
+  },
+  {
+    "path": "audit/packages/BECv2_M3_Probability_Lean431_Mathlib_PASS.zip",
+    "sha256": "e1a76a74d612483a90fb162edf1962047ec409dc8ed01b3db58e04422cea38dc",
+    "bytes": 2519
+  },
+  {
+    "path": "audit/packages/BECv2_M4_Topology_Lean431_Mathlib_PASS.zip",
+    "sha256": "8a68bc95eee2eccc5bdbd1779735b643489d6755f3e631cb957dfaa11eec313b",
+    "bytes": 2679
+  },
+  {
+    "path": "audit/packages/BECv2_M5_BTT_Lean431_Mathlib_PASS.zip",
+    "sha256": "a497c7668fafa52d1f6c4f24c59bfaeb288e65208eabdbe9c0009d07de740e10",
+    "bytes": 2881
+  },
+  {
+    "path": "audit/packages/BECv2_M7_AllInOne_Lean431_Mathlib_PASS.zip",
+    "sha256": "f58f7c861b1f78eacb51b6eebf18db897ea5e9a7ffb4b4a697ed99e401d3d8ab",
+    "bytes": 8073
+  },
+  {
+    "path": "audit/packages/BECv2_M8_PolyhedralSolver_Lean431_Mathlib_PASS.zip",
+    "sha256": "231180aaecaf372d84248a106271210308f739b5b9f7ad7ed9f9dcf33b316be9",
+    "bytes": 3006
+  },
+  {
+    "path": "audit/packages/BECv2_M9_Dynamic_Lean431_Mathlib_PASS.zip",
+    "sha256": "f70e426f01c4eacfe9c0f56d5e0885f58380fc9cfafedee8416b27881ba9dbd9",
+    "bytes": 3113
+  },
+  {
+    "path": "audit/packages/BECv2_MinKernel_Lean431_Mathlib_PASS.zip",
+    "sha256": "52719cb28ec779974d3b9729e7837999ba21c84247475eae0ec38c3aae58b55a",
+    "bytes": 3295
+  },
+  {
+    "path": "lakefile.toml",
+    "sha256": "12ad76f7bedc39f63596330eec64284853658c5da98ac38077399a955f7d8106",
+    "bytes": 166
+  },
+  {
+    "path": "lean-toolchain",
+    "sha256": "efac0b94923b2d8b6840cd35be9177ad0fc5ab2332f4f4311c98712cee92fdee",
+    "bytes": 25
+  },
+  {
+    "path": "paper/BECv2_M16_FinalMonographAssembly.md",
+    "sha256": "489b7c40d271dff35651529f9b40518f10211e7c670b0b1bdf4051c9ac00feff",
+    "bytes": 11695
+  },
+  {
+    "path": "paper/BECv2_M16_FinalMonographAssembly.pdf",
+    "sha256": "90574c2509bd0dc5e714c79935faec1792aa96fd80e79c7e959ffeb4e4262366",
+    "bytes": 59792
+  },
+  {
+    "path": "paper/BECv2_M16_FinalMonographAssembly.tex",
+    "sha256": "d8f6043273671ed8db8716bfa586ca989430f83e48b88f7a4cac92589e4e78fe",
+    "bytes": 15702
+  },
+  {
+    "path": "paper/BECv2_M16_PublicationChecklist.md",
+    "sha256": "645b8d0e7e384ed2f5240353764c443151755069086ccea962ff0423f459b8fd",
+    "bytes": 747
+  },
+  {
+    "path": "release/BECv2_M15_PublicationRelease_M1_M14.zip",
+    "sha256": "306c3fe0e2f59486f43963f26971e8ee52fc37b54734e43bc87041784d09c7aa",
+    "bytes": 189776
+  },
+  {
+    "path": "release/BECv2_M16_FinalMonographRelease.zip",
+    "sha256": "639cdbe98de2c9a8c0ff3be5f503399bae6ea0d93bf9136fd38c30f81f054fe3",
+    "bytes": 261446
+  },
+  {
+    "path": "scripts/blocked_token_scan.sh",
+    "sha256": "0ea255a8e183a768cb3717f160e7e9280e9daf4ca33d288f23734e1e52016d3e",
+    "bytes": 226
+  },
+  {
+    "path": "scripts/check_all.sh",
+    "sha256": "d991cb358266f3231416910f153af5aebe5b0f20297b95a08ec4a08a5f587789",
+    "bytes": 587
+  }
+]

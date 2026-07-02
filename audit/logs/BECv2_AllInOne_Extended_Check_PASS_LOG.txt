@@ -1,0 +1,11 @@
+[BEC v2.0 M12] Extended all-in-one kernel check
+
+[1/3] Lean version
+Lean (version 4.31.0, aarch64-unknown-linux-gnu, commit 68218e876d2a38b1985b8590fff244a83c321783, Release)
+
+[2/3] Compile check
+
+[3/3] Blocked-token scan
+PASS: blocked-token scan clean.
+
+PASS: BECv2_AllInOne_Extended_Check.lean compiled successfully.
